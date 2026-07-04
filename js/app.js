@@ -26,38 +26,38 @@
 
 //---------------------------------------------
 
-// let x = 10;
-// let y = 20;
+let x = 10;
+let y = 20;
 
 
 
-// if (x > y) {
-//     console.log("x is greater than y");
+if (x > y) {
+    console.log("x is greater than y");
     
-// } else if (x < y) {
-//     console.log("x is less than y");
-// }else{
-//     console.log("x is equal to y");
+} else if (x < y) {
+    console.log("x is less than y");
+}else{
+    console.log("x is equal to y");
     
-// }
+}
 
 //----------------------------------------------------------
 
-let day = 5;
+// let day = 5;
 
-switch (day) {
-    case 1:
-        console.log("monday");
-        break;
-    case 2:
-        console.log("tuesday");
-        break;
-    case 3:
-        console.log("wednesday");
-        break;
-    default:
-        console.log("Invalid Input");
-        break;
-}
+// switch (day) {
+//     case 1:
+//         console.log("monday");
+//         break;
+//     case 2:
+//         console.log("tuesday");
+//         break;
+//     case 3:
+//         console.log("wednesday");
+//         break;
+//     default:
+//         console.log("Invalid Input");
+//         break;
+// }
 
 //-------------------------------------------------------------------
