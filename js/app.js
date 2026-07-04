@@ -8,21 +8,21 @@
 
 // alert("hello icet")
 
-// let name = "dinuka"
-// let age = 15
-// let isAfterAl = false
-// let customers = []
-// let customer = {}
-// let salary = 7500.0
+let name = "dinuka"
+let age = 15
+let isAfterAl = false
+let customers = []
+let customer = {}
+let salary = 7500.0
 
-// console.log(typeof salary);
+console.log(typeof salary);
 
 //--------------------------------------------
 
-let x = 10
-let y = "10"
+// let x = 10
+// let y = "10"
 
-console.log(x===y);
+// console.log(x===y);
 
 //---------------------------------------------
 
