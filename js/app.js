@@ -33,12 +33,12 @@
 
 // if (x > y) {
 //     console.log("x is greater than y");
-    
+
 // } else if (x < y) {
 //     console.log("x is less than y");
 // }else{
 //     console.log("x is equal to y");
-    
+
 // }
 
 //----------------------------------------------------------
@@ -64,13 +64,13 @@
 
 // for (let i = 0; i < 10; i++) {
 //     console.log(i);
-        
+
 // }
 
 
 // for (let i = 0; i <= 10; i++) {
 //     console.log(i);
-        
+
 // }
 
 
@@ -83,13 +83,25 @@
 
 // let result = add(10,20)
 //     console.log(result);
-    
+
 //--------------------------------------------
 
 
-let numbers = [1,"true",2,3,4,"dinuka",5];
+// let numbers = [1,"true",2,3,4,"dinuka",5];
 
-for (let i = 0; i < numbers.length; i++) {
-        console.log(numbers[i]);
-            
+// for (let i = 0; i < numbers.length; i++) {
+//         console.log(numbers[i]);
+
+// }
+
+
+//----------------------------------------------------------
+
+let customer = {
+    name :"dinuka",
+    age : 15,
+    isAfterAl : false,
+    salary : 7500.0,
 }
+
+console.log(customer);
