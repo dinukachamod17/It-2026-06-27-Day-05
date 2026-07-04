@@ -8,14 +8,14 @@
 
 // alert("hello icet")
 
-let name = "dinuka"
-let age = 15
-let isAfterAl = false
-let customers = []
-let customer = {}
-let salary = 7500.0
+// let name = "dinuka"
+// let age = 15
+// let isAfterAl = false
+// let customers = []
+// let customer = {}
+// let salary = 7500.0
 
-console.log(typeof salary);
+// console.log(typeof salary);
 
 //--------------------------------------------
 
@@ -61,3 +61,14 @@ console.log(typeof salary);
 // }
 
 //-------------------------------------------------------------------
+
+for (let i = 0; i < 10; i++) {
+    console.log(i);
+        
+}
+
+
+// for (let i = 0; i <= 10; i++) {
+//     console.log(i);
+        
+// }
