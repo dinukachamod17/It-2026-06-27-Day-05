@@ -77,10 +77,19 @@
 //------------------------------------------------------------
 
 
-function add(x,y) {
-    return x + y;
-}
+// function add(x,y) {
+//     return x + y;
+// }
 
-let result = add(10,20)
-    console.log(result);
+// let result = add(10,20)
+//     console.log(result);
     
+//--------------------------------------------
+
+
+let numbers = [1,2,3,4,5];
+
+for (let i = 0; i < numbers.length; i++) {
+        console.log(numbers[i]);
+            
+}
