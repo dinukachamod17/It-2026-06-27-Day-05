@@ -9,23 +9,32 @@
 
 <body>
 
-    <h1>Html form</h1>
+    <h1 style="text-align: center; background-color: black; color: aliceblue; border-radius: 10px; padding: 20px;">Html
+        form</h1>
 
     <fieldset>
         <legend style="text-align: center;">Form 01</legend>
-
-        <input style="padding: 15px; border-radius: 7px; margin-left: 200px;" type="text" placeholder="Enter you Name">
-        <br>
-        <br>
-        <input style="padding: 15px; border-radius: 7px; margin-left: 200px;" type="password" placeholder="Password">
-        <br>
-        <br>
-        <br>
+        <h4>Enter your Name     : <input type="text" placeholder="Enter your Name"></h4>
+        <h4>Enter your Password : <input  type="password"  placeholder="Password"> </h4>
+        
 
         <select name="" id="">
             <option value="">Next</option>
             <option value="">Back</option>
         </select>
+
+        <br>
+        <br>
+        <br>
+        <br>
+
+        <input type="search" list="names" placeholder="search">
+        <datalist id="names">
+            <option value="dinuka"></option>
+            <option value="chamod"></option>
+            <option value="kamal"></option>
+            <option value="saman"></option>
+        </datalist>
 
     </fieldset>
 </body>
